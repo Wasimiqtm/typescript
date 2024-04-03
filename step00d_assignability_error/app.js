@@ -1,4 +1,4 @@
-"use strict";
-let message1 = "Hello World";
-message1 = 5;
-console.log(message1);
+export {};
+// let message1 = "Hello World";
+// message1 = 5;
+// console.log(message1);

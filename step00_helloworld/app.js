@@ -1,4 +1,3 @@
-"use strict";
 // Most basic types of variables
 // 1. null
 // 2. undefined
@@ -8,3 +7,4 @@
 // 6. bigint // 0n, 5n, -10n
 // 7. symbol // Symbol(), Symbol("hi"),
 console.log('hello world');
+export {};
